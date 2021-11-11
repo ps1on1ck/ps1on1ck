@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ps1on1ck&theme=vue&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1on1ck&theme=vue&langs_count=8&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1on1ck&theme=vue&hide=jupiter%notebook&langs_count=8&count_private=true&include_all_commits=true)
 
 
 ### Languages and Tools:
