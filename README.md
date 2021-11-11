@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/ps1on1ck?tab=repositories)
+👨‍💻 All of my projects are available  [here](https://github.com/ps1on1ck?tab=repositories)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ps1on1ck)
 
