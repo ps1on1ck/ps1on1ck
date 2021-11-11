@@ -6,7 +6,6 @@
 ### Find me 
 [![dev.to badge](https://img.shields.io/badge/linkedin-Alex-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexander-s-02a5a863)
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👨‍💻 All of my projects are available  [here](https://github.com/ps1on1ck?tab=repositories)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ps1on1ck)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ps1on1ck&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1on1ck)
 
