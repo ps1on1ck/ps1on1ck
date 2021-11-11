@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👨‍💻 All of my projects are available  [here](https://github.com/ps1on1ck?tab=repositories)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ps1on1ck&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ps1on1ck&theme=vue&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1on1ck)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1on1ck&theme=vue)
 
 
 ### Languages and Tools:
