@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Find me 
+[![dev.to badge](https://img.shields.io/badge/linkedin-Alex-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexander-s-02a5a863)
+
+- 👨‍💻 All of my projects are available  [here](https://github.com/ps1on1ck?tab=repositories)
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ps1on1ck)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps1on1ck)
