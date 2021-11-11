@@ -3,6 +3,10 @@
 <!--
 **ps1on1ck/ps1on1ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Find me 
+[![dev.to badge](https://img.shields.io/badge/linkedin-Alex-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexander-s-02a5a863)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Find me 
-[![dev.to badge](https://img.shields.io/badge/linkedin-Alex-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexander-s-02a5a863)
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/ps1on1ck?tab=repositories)
 
