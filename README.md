@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
+
+<img align="right" alt="GIF" src="anim.gif" width="500" height="320" />
 
 <!--
 **ps1on1ck/ps1on1ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
